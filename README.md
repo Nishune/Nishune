@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hello and welcome to my github!
+# Hello and welcome to my github!!
 
 ### My name is Rikard Engström, i have a background in the Swedish Armed Forces and UX-design. Iam not studying computer science with focus on Java & Javascript.
 
