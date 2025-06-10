@@ -1,4 +1,10 @@
-# Hi there! 👋 I'm Nishune
+
+
+<div align="center">
+
+# Hello and welcome to my github!
+
+### My name is Rikard Engström, i have a background in the Swedish Armed Forces and UX-design. Iam not studying computer science with focus on Java & Javascript.
 
 ## 📊 GitHub Statistics
 
@@ -7,3 +13,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishune&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nishune&theme=dark)
+
+</div>
