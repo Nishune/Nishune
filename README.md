@@ -4,7 +4,7 @@
 
 # Hello and welcome to my github!!
 
-### My name is Rikard Engström, i have a background in the Swedish Armed Forces and UX-design. Iam not studying computer science with focus on Java & Javascript.
+### My name is Rikard Engström, i have a background in the Swedish Armed Forces and UX-design. Iam now studying computer science with focus on Java & Javascript.
 
 ## 📊 GitHub Statistics
 
