@@ -14,6 +14,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishune&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nishune&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Nishune&theme=dark)
+
 
 </div>
