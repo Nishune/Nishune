@@ -12,7 +12,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishune&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishune&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishune&layout=compact&theme=dark&langs_count=8)
+
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Nishune&theme=dark)
 
